@@ -1,4 +1,4 @@
-ruby-craigslist-search
+ruby-craigslist
 ======================
 
-Ruby Craigslist Search
+Ruby Craigslist
